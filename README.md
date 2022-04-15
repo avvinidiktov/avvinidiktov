@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @avvinidiktov
+- 👀 I’m interested in Java/Kotlin/Scala
+- 🌱 I’m currently learning Kotlin/Micronaut Framework
+- 📫 How to reach me: t.me/dealomi
