@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @avvinidiktov
 - 👀 I’m interested in Java/Kotlin
-- 📫 How to reach me: t.me/dealomi
