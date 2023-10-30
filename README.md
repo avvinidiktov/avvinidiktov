@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @avvinidiktov
-- 👀 I’m interested in Java/Kotlin
+- 👀 I’m interested in Java technology stack
+- 👨🏻‍💻 Currently working on open-source educational platform
